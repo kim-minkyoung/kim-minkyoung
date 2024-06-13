@@ -2,10 +2,6 @@
   Hi there👋 <br/>Pamper Life's Complexities!✨
 </div>
 
-<div align="center">
-  <h1>Kim-MinKyoung</h1>
-</div>
-
 
 <div align="center">
   <h3>Once I've Used</h3>
