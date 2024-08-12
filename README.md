@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white">
 </p>
 
-### ✏️ Cloud Services
+### ✏️ Cloud Development
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white">
@@ -62,30 +62,6 @@
 
 ## 📜 What I Did
 
-- **2023.10 ~ 2024.05**: Developed an iOS app **"WORKWAY"** using the TCA pattern and SwiftUI.
+For detailed project descriptions, visit my Notion page:
 
-- **2024.01 ~ 2024.02**: Created a **code grading site** using React.
-
-- **2024.07: 몰입캠프 참여**
-  - **1주차**: Developed an Android app **"TREASURES"** using MVVM architecture.
-    - **Frontend**: Kotlin
-    - [GitHub Repository](https://github.com/kim-minkyoung/madcamp1)
-  - **2주차**: Developed an Android app **"DRAWDLE"** using MVVM architecture.
-    - **Backend**: NodeJS, MongoDB, AWS EC2
-    - **Frontend**: Kotlin
-    - [Backend Repository](https://github.com/kim-minkyoung/madcamp2_backend)
-    - [Frontend Repository](https://github.com/kim-minkyoung/madcamp2_frontend)
-  - **3주차**: Developed a web application **"천하제일 으랏차차 온라인 장기자랑"** using WebSocket.
-    - **Backend**: AWS Lambda, RDS, MySQL, GitHub Actions
-    - **Frontend**: React, Tailwind CSS
-    - [Frontend Repository](https://github.com/kim-minkyoung/madcamp3_frontend)
-    - [Backend Repository](https://github.com/kim-minkyoung/madcamp3_backend)
-  - **4주차**: Developed a web application **"Harry Potter"**.
-    - **Backend**: NodeJS, MySQL, AWS EC2, AWS RDS, AWS S3, GitHub Actions, GitHub Pages
-    - **Frontend**: Three.js, Next.js, Tailwind CSS
-    - [Frontend Repository](https://github.com/syeongkim/madcamp_week4_front)
-    - [Backend Repository](https://github.com/kim-minkyoung/madcamp4_backend)
-
-- **2024.08**: Participated in the **SPARCS AI Hackathon**.
-  - **Backend**: NestJS, Prisma, PostgreSQL, Naver Cloud
-  - [GitHub Repository](https://github.com/kim-minkyoung/kaist-ai-hackathon-be)
+- [What I Did](https://confirmed-sulfur-5eb.notion.site/What-I-Did-7711937f48274b0c88a5194f6e4933ea)
