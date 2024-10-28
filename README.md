@@ -62,4 +62,4 @@
 
 For detailed project descriptions, visit my Notion page:
 
-- [What I Did]([https://confirmed-sulfur-5eb.notion.site/What-I-Did-7711937f48274b0c88a5194f6e4933ea](https://confirmed-sulfur-5eb.notion.site/MinKyoung-Kim-1100df77f77f804399b1fca37f1a2043?pvs=4))
+- [Notion Page](https://confirmed-sulfur-5eb.notion.site/MinKyoung-Kim-1100df77f77f804399b1fca37f1a2043)
